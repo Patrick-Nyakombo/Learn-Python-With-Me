@@ -1,6 +1,6 @@
 # Course Outline
 
-This course will enable you to learn fundamental computer programming concepts and build your coding skills with the Python programming language.  
+In this course, you will master fundamental computer programming concepts and enhance your coding skills using the Python programming language. You will acquire in-demand skills such as designing, developing, and optimizing computer programs, analyzing problems through programming, and applying best practices in programming, among others.
 This course will entail:
 1. Introduction to Python and Computer Programming
    - Introduction to Programming
