@@ -1,4 +1,5 @@
-#Course Outline
+# Course Outline
+
 This course will enable you to learn fundamental computer programming concepts and build your coding skills with the Python programming language.  
 This course will entail:
 1. Introduction to Python and Computer Programming
